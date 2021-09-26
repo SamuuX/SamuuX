@@ -41,7 +41,7 @@
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/mdi:discord.svg?color=%2300fef4&height=32" />][discord]
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/mdi:twitch.svg?color=%2300fef4&height=32" />][twitch]
 
-
+<br /><br />
   
 <a href="https://discord.gg/https://discord.gg/YeAxvc2RqR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/YeAxvc2RqR" height="30" width="40" /></a>
 </p>
