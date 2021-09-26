@@ -11,8 +11,9 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@bots
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: Updated the Readme
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          API_BASE_URL: https://wakapi.dev/api
+          
