@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Samuu_X</h1>
-<h3 align="center">Un desarrollador de frontend apasionado,soy de Chile / Colombia</h3>
+<h3 align="center">Un desarrollador de frontend apasionado, soy de Chile / Colombia</h3>
 
 <p align="left"> <a href="https://twitter.com/SaMuUx2" target="blank"><img src="https://img.shields.io/twitter/follow/SaMuUx2?logo=twitter&style=for-the-badge" alt="SaMuUx2" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Samuu_X@gmail.com** <br /><br /> <div>[![GitHub SamuuX](https://img.shields.io/github/followers/SamuuX?label=follow&style=social)](https://github.com/SamuuX) ![](https://komarev.com/ghpvc/?username=SamuuX&color=green)</div>
 
-h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samuux2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuux2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samuu_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuu_x" height="30" width="40" /></a>
@@ -61,6 +61,4 @@ JavaScript   1 min           ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuuX&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=05B281&title_color=fff&text_color=fff" />
-</p>
+
