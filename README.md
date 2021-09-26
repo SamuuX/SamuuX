@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/SaMuUx2" target="blank"><img src="https://img.shields.io/twitter/follow/SaMuUx2?logo=twitter&style=for-the-badge" alt="SaMuUx2" /></a> </p>
 
+<div>[![GitHub SamuuX](https://img.shields.io/github/followers/SamuuX?label=follow&style=social)](https://github.com/SamuuX) ![](https://komarev.com/ghpvc/?username=SamuuX&color=green)</div>
+
 - 🔭 Actualmente estoy trabajando en [Bot Samuu_X](https://github.com/SamuuX/bot_samuu_x)
 
 - 🌱 Actualmente estoy aprendiendo **React**
@@ -11,7 +13,7 @@
 
 - 💬 Preguntame sobre **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **Samuu_X@gmail.com** <br /><br /> <div>[![GitHub SamuuX](https://img.shields.io/github/followers/SamuuX?label=follow&style=social)](https://github.com/SamuuX) ![](https://komarev.com/ghpvc/?username=SamuuX&color=green)</div>
+- 📫 How to reach me **Samuu_X@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
