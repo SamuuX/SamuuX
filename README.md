@@ -3,7 +3,7 @@
   <a href="https://twitter.com/SaMuUx2">Twitter</a>
 </p>
 
-Actualmente estoy trabajando en [![bot_samuu_x](https://wakatime.com/badge/github/SamuuX/bot_samuu_x.svg)](https://wakatime.com/badge/github/SamuuX/bot_samuu_x) <br /><br /> <div>[![GitHub SamuuX](https://img.shields.io/github/followers/SamuuX?label=follow&style=social)](https://github.com/SamuuX) ![](https://komarev.com/ghpvc/?username=SamuuX&color=green)</div>
+Actualmente estoy trabajando en [![bot_samuu_x](https://github.com/SamuuX/bot_samuu_x)] <br /><br /> <div>[![GitHub SamuuX](https://img.shields.io/github/followers/SamuuX?label=follow&style=social)](https://github.com/SamuuX) ![](https://komarev.com/ghpvc/?username=SamuuX&color=green)</div>
 
 ### Programming:
 <p>
