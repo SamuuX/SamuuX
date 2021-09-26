@@ -3,7 +3,7 @@
   <a href="https://twitter.com/SaMuUx2">Twitter</a>
 </p>
 
-<div>[![GitHub SamuuX](https://img.shields.io/github/followers/SamuuX?label=follow&style=social)](https://github.com/SamuuX)![](https://komarev.com/ghpvc/?username=SamuuX&color=green)</div>
+Actualmente estoy trabajando en [samuu-x-community](https://samuu-x-community.glitch.me) <div>[![GitHub SamuuX](https://img.shields.io/github/followers/SamuuX?label=follow&style=social)](https://github.com/SamuuX) ![](https://komarev.com/ghpvc/?username=SamuuX&color=green)</div>
 
 ### Programming:
 <p>
