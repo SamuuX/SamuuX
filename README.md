@@ -41,7 +41,8 @@ Actualmente estoy trabajando en [bot_samuu_x](https://github.com/SamuuX/bot_samu
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON         4 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀   79.11 % 
+JavaScript   1 min           ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.89 % 
 ```
 <!--END_SECTION:waka-->
 
