@@ -3,7 +3,8 @@
   <a href="https://twitter.com/SaMuUx2">Twitter</a>
 </p>
 
-I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub SamuuX](https://img.shields.io/github/followers/SamuuX?label=follow&style=social)](https://github.com/SamuuX) ![](https://komarev.com/ghpvc/?username=SamuuX&color=green)</div>
+<div>[![GitHub SamuuX](https://img.shields.io/github/followers/SamuuX?label=follow&style=social)](https://github.com/SamuuX) 
+  ![](https://komarev.com/ghpvc/?username=SamuuX&color=green)</div>
 
 ### Programming:
 <p>
@@ -37,7 +38,7 @@ I'm currently working on [portalmybot](https://portalmybot.com) <div>[![GitHub S
 <br /><br />
 
 ---
-📊 **This week I spent my time on**
+📊 **Esta semana pasé mi tiempo en**
 
 <!--START_SECTION:waka-->
 ```text
