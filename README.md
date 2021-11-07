@@ -71,7 +71,7 @@ const sobreMi = {
 
 
 
-[![SamuuX wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamuuX&hide_progress=true)](https://github.com/SamuuX/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SamuuX&hide_progress=true)](https://github.com/SamuuX/github-readme-stats)
 
 </a>
 <br>
