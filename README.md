@@ -107,7 +107,7 @@ const sobreMi = {
 ![Metrics](https://metrics.lecoq.io/SamuuX?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
  
-
+![Metrics](/github-metrics.svg)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuuX&show_icons=true&locale=en" alt="samuux" /></p>
