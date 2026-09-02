@@ -77,13 +77,10 @@ Repositorio orientado al estudio de reglas de **Suricata**, IDS/IPS y detección
 
 ---
 
-## GitHub Stats
+## Actividad en GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SamuuX&show_icons=true&hide_title=true" alt="GitHub stats" />
-
-</div>
+- 📂 [Ver todos mis repositorios](https://github.com/SamuuX?tab=repositories)
+- 📈 [Ver mi actividad y contribuciones](https://github.com/SamuuX)
 
 ---
 
